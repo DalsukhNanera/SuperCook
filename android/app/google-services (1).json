@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "117861578572",
+    "project_id": "supercook-7ea00",
+    "storage_bucket": "supercook-7ea00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117861578572:android:fea0030fbd71ec0be801e9",
+        "android_client_info": {
+          "package_name": "com.dalsukh.supercook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNH6Lk4PKwQGClmyhNyPMXi6hRVoy0AdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
